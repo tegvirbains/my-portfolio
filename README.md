@@ -6,7 +6,6 @@ This is a personal portfolio homepage for showcasing skills and experience as a 
 ## Table of Contents
 Requirements
 Technologies Used
-Setup
 Usage
 Contributing
 License
@@ -32,18 +31,6 @@ Clean and well-indented code
 ## Technologies Used
 HTML
 CSS
-
-
-## Setup
-Clone the repository
-bash
-Copy code
-git clone https://github.com/your-username/your-repo-name.git
-Navigate to the project directory
-bash
-Copy code
-cd your-repo-name
-
 
 ## Usage
 Open the index.html file in your preferred web browser
